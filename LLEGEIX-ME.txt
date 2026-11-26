@@ -1,12 +1,13 @@
 # Advent a l’aula · Edició unificada
 
-Calendari interactiu de Nadal per a primària, en català. Set escenes amb imatges il·lustrades, 58 reptes revisats, i activitats que es poden obrir des de cada porta: cançoner, concurs sonor, reptes de lògica, art, experimentació, moviment, lectura i convivència.
+Calendari interactiu de Nadal per a primària, en català. Deu escenes amb imatges il·lustrades, 58 reptes revisats, i activitats que es poden obrir des de cada porta: cançoner, concurs sonor, reptes de lògica, art, experimentació, moviment, lectura i convivència.
 
 ## Quina versió faig servir a l’aula?
 
 - **Amb internet:** obre [Advent a l’aula a GitHub Pages](https://beilo-byte.github.io/AULAIA-Advent/) i desa’l als preferits del perfil de la classe. També el pots instal·lar com a PWA si el navegador ofereix aquesta opció. Després de la primera càrrega, el calendari, les il·lustracions i els reptes integrats poden funcionar sense internet. Les sis pistes en línia i els recursos externs necessiten connexió. A Pages, «L’estel pacient» té lletra i enllaç al disc, però no una pista integrada.
 - **Sense internet, inclosa la música:** fes servir el fitxer separat `Advent-a-laula-Unificat.html` que es va lliurar amb aquesta edició. Porta les set pistes integrades. Si no el tens, demana una còpia a qui t’ha compartit el calendari. El ZIP del repositori conté el codi de la versió web, no pas els àudios.
 - **Per preparar o recuperar una classe:** a ⚙ → **Mode assaig** pots obrir qualsevol dia sense marcar-lo. Desactiva’l abans de passar a l’aula, també després d’importar un calendari antic, perquè el JSON pot recuperar aquest ajust. A ⚙ → **Calendari escolar i inspiració** pots carregar els 13 dies lectius de Manlleu o generar una proposta variada.
+- A **Edita frases i dates**, prem ⓘ al costat d’una activitat per veure’n els passos, els materials, la durada i les adaptacions. El filtre **Curs recomanat** també s’aplica al repertori i al sorteig, però no canvia els dies fins que els edites o tornes a fer el sorteig.
 - Activa ♫ a la cantonada només si vols música de fons. Comença al 10 %. Tu tries la pista i el volum a ⚙. La música s’atura durant els reptes i torna quan els tanques. El so curt de la porta és independent.
 - Les pistes són cantades. No s'hi inclouen stems ni bases instrumentals. El joc fa servir fragments de l’inici de les gravacions.
 - Cançons i lletres de *Nadales Rock en català 2026 feat. Ginger*, Eloi Bruguet Lozano. No s’inclouen dades d’alumnes, comptes, serveis de seguiment ni APIs.
@@ -47,4 +48,3 @@ publicar ni gravar alumnat per fer cap activitat.
 - [Punt de llibre · Red Ted Art](https://www.redtedart.com/origami-bookmark/).
 - [Cromatografia en paper · Birmingham Museums](https://www.birminghammuseums.org.uk/resources/paper-rainbows).
 - [Jocs d’hivern · Chaylor & Mads](https://chaylorandmads.com/winter-themed-games-for-classroom/) i [format Freeze Dance · vídeo del creador](https://www.youtube.com/watch?v=cn5CuIohvIY). Només com a inspiració docent, no cal YouTube per jugar.
-
