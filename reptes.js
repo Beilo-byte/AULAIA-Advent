@@ -227,7 +227,7 @@ function renderGift(h,id){
  const active=['chorus','break','freeze','intro'].includes(id);
  if(active)helper[id](h);
  const info=board(h);add(info,cat+' · '+mins,'gift-meta');add(info,'Què necessitem: '+materials);
- const instructions=steps(h,procedure);const answer=['codegift','tracks','postroute','witness','ribbon','squares','sleigh','treegrid'].includes(id);
+ const instructions=steps(h,procedure);const answer=['codegift','tracks','postroute','witness','ribbon','squares','sleigh','treegrid','footsteps','fourparcels'].includes(id);
  const area=answer?h.appendChild(e('details',null,'gift-solution')):h;
  if(answer)area.append(e('summary','Pista final i solució'));
  const note=add(area,finish,'gift-note');

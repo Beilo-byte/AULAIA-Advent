@@ -1,6 +1,6 @@
 # Advent a l’aula · Edició unificada
 
-Calendari interactiu de Nadal per a primària, en català. Deu escenes amb imatges il·lustrades, 58 reptes revisats, i activitats que es poden obrir des de cada porta: cançoner, concurs sonor, reptes de lògica, art, experimentació, moviment, lectura i convivència.
+Calendari interactiu de Nadal per a primària, en català. Deu escenes amb imatges il·lustrades, 70 reptes (58 de l’edició anterior i 12 nous), i activitats que es poden obrir des de cada porta: cançoner, concurs sonor, reptes de lògica, art, experimentació, moviment, lectura i convivència.
 
 ## Quina versió faig servir a l’aula?
 
@@ -11,6 +11,10 @@ Calendari interactiu de Nadal per a primària, en català. Deu escenes amb imatg
 - Activa ♫ a la cantonada només si vols música de fons. Comença al 10 %. Tu tries la pista i el volum a ⚙. La música s’atura durant els reptes i torna quan els tanques. El so curt de la porta és independent.
 - Les pistes són cantades. No s'hi inclouen stems ni bases instrumentals. El joc fa servir fragments de l’inici de les gravacions.
 - Cançons i lletres de *Nadales Rock en català 2026 feat. Ginger*, Eloi Bruguet Lozano. No s’inclouen dades d’alumnes, comptes, serveis de seguiment ni APIs.
+
+## Criba de reptes
+     
+Obre **⚙ → Criba de reptes**, o ves directament a [la graella](https://beilo-byte.github.io/AULAIA-Advent/#criba). Les caselles **Conservo** i **Retiro** són excloents. Si desmarques el tic, el repte torna a pendents. Els retirats no surten al selector ni al sorteig, però els dies que ja els tenien no canvien. Pots triar només activitats conservades i exportar un JSON de la tria sense incloure el calendari ni observacions. Les activitats noves porten el distintiu **Nou**.
 
 ## Models de referència
 
@@ -24,9 +28,9 @@ Prem **Observacions** des d’una targeta o dins d’un repte per desar una nota
 
 Per compartir amb el claustre, envia l’enllaç a Pages o comparteix per Drive l’HTML amb música integrada perquè es pugui descarregar. Usa sempre el mateix perfil de navegador i, si obres el fitxer local, la mateixa ruta. Prova que els canvis es conserven després d’apagar la pantalla de classe. Desa per separat una còpia JSON del calendari i una de les observacions. No hi ha sincronització automàtica ni cap connexió al Drive des de l’app. Per continuar en un altre ordinador, carrega els dos JSON a les seves seccions respectives.
 
-## Edició 58 reptes (novembre de 2026)
+## Repertori (novembre de 2026)
 
-L’edició unificada permet obrir els dos formats de calendari JSON anteriors. El banc de 58 propostes es
+L’edició unificada permet obrir els dos formats de calendari JSON anteriors. El banc de 70 propostes es
 reparteix en vuit categories. Cada proposta té materials, durada i passos
 concrets, amb un desenllaç, variant o pista. A **Barreja i imprescindibles**
 pots obrir la **Vista prèvia** de qualsevol repte sense marcar cap data.

@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='advent-aula-static-pages-v5.2';
+const CACHE='advent-aula-static-pages-v5.3';
 const assets=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./reptes.css','./reptes-data.js','./gifts-data.js','./reptes.js','./review.js','./review.css','./perfil-manlleu.json',...['bakery','tio','sky','origami','snow','card','chalet','door','doors','envelope','gift-brick','gift-red','gifts','orb-gold','orb-red','pocket-green','pocket-red','postal','quilt','sock-green','sock-red','socks','tree','village'].map(n=>'./assets/'+n+'.webp')];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(assets)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('advent-aula-static-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
