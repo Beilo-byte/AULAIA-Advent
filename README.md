@@ -58,3 +58,7 @@ publicar ni gravar alumnat per fer cap activitat.
 - [Punt de llibre · Red Ted Art](https://www.redtedart.com/origami-bookmark/).
 - [Cromatografia en paper · Birmingham Museums](https://www.birminghammuseums.org.uk/resources/paper-rainbows).
 - [Jocs d’hivern · Chaylor & Mads](https://chaylorandmads.com/winter-themed-games-for-classroom/) i [format Freeze Dance · vídeo del creador](https://www.youtube.com/watch?v=cn5CuIohvIY). Només com a inspiració docent, no cal YouTube per jugar.
+
+### Tria d’activitats
+
+A «Tria d’activitats» trobareu 30 consignes breus d’Advent. El cor marca preferides; la paperera exclou de les tries noves però permet recuperar cada proposta. No canvia cap dia assignat. La tria es desa en aquest navegador i es pot traslladar amb el seu JSON. Les proves per cursos continuen en un apartat separat.
