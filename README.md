@@ -1,12 +1,12 @@
-# Advent a l’aula · Edició reptes
+# Advent a l’aula · Edició unificada
 
-Calendari interactiu de Nadal per a primària, en català. Set escenes amb imatges il·lustrades, 124 propostes, i activitats que es poden obrir des de cada porta: cançoner, concurs sonor, reptes de lògica, art, experimentació, moviment, lectura i convivència.
+Calendari interactiu de Nadal per a primària, en català. Set escenes amb imatges il·lustrades, 58 reptes revisats, i activitats que es poden obrir des de cada porta: cançoner, concurs sonor, reptes de lògica, art, experimentació, moviment, lectura i convivència.
 
-## Obre’l
+## Quina versió faig servir a l’aula?
 
-- Descomprimeix el ZIP i obre `index.html` per fer-lo servir en local. Mantén els fitxers junts; no cal iniciar cap servidor per a l’edició local.
-- Per instal·lar-lo com a PWA, allotja l'arrel d'aquesta carpeta en HTTPS. Abans d'usar-lo sense internet espera que s'acabi de preparar la còpia en un dispositiu nou. Els enllaços externs (com el conte PDF) necessiten connexió.
-- ⚙ → **Mode assaig** per obrir qualsevol porta sense marcar-la. ⚙ → **Calendari escolar i inspiració** per carregar els 13 dies de Manlleu o triar-ne la proposta variada. Guarda un JSON per fer còpia o canviar de dispositiu.
+- **Amb internet:** obre [Advent a l’aula a GitHub Pages](https://beilo-byte.github.io/AULAIA-Advent/) i desa’l als preferits del perfil de la classe. També el pots instal·lar com a PWA si el navegador ofereix aquesta opció. Després de la primera càrrega, el calendari, les il·lustracions i els reptes integrats poden funcionar sense internet. Les sis pistes en línia i els recursos externs necessiten connexió. A Pages, «L’estel pacient» té lletra i enllaç al disc, però no una pista integrada.
+- **Sense internet, inclosa la música:** fes servir el fitxer separat `Advent-a-laula-Unificat.html` que es va lliurar amb aquesta edició. Porta les set pistes integrades. Si no el tens, demana una còpia a qui t’ha compartit el calendari. El ZIP del repositori conté el codi de la versió web, no pas els àudios.
+- **Per preparar o recuperar una classe:** a ⚙ → **Mode assaig** pots obrir qualsevol dia sense marcar-lo. Desactiva’l abans de passar a l’aula, també després d’importar un calendari antic, perquè el JSON pot recuperar aquest ajust. A ⚙ → **Calendari escolar i inspiració** pots carregar els 13 dies lectius de Manlleu o generar una proposta variada.
 - Activa ♫ a la cantonada només si vols música de fons. Comença al 10 %. Tu tries la pista i el volum a ⚙. La música s’atura durant els reptes i torna quan els tanques. El so curt de la porta és independent.
 - Les pistes són cantades. No s'hi inclouen stems ni bases instrumentals. El joc fa servir fragments de l’inici de les gravacions.
 - Cançons i lletres de *Nadales Rock en català 2026 feat. Ginger*, Eloi Bruguet Lozano. No s’inclouen dades d’alumnes, comptes, serveis de seguiment ni APIs.
@@ -21,11 +21,11 @@ Calendari interactiu de Nadal per a primària, en català. Set escenes amb imatg
 
 Prem **Observacions** des d’una targeta o dins d’un repte per desar una nota amb la data, la consigna, el tipus de repte i l’escena. El botó del calendari obre notes generals. Les notes són locals; no hi posis noms d’alumnes. A **⚙ → Descarregar observacions** pots descarregar un JSON per adjuntar al xat o importar a l’app, o un PDF per llegir i imprimir. L’opció de càrrega només admet el JSON d’observacions i conserva les notes existents. El JSON del calendari no conté observacions.
 
-Per compartir amb el claustre, guarda l’HTML com a plantilla al Drive. Cada docent el descarrega i l’obre amb el seu navegador, i desa les seves còpies JSON del calendari i de les observacions en una carpeta pròpia del Drive. No hi ha sincronització automàtica ni cap connexió al Drive des de l’app. Per continuar en un altre ordinador, carrega els dos JSON a les seves seccions respectives.
+Per compartir amb el claustre, envia l’enllaç a Pages o comparteix per Drive l’HTML amb música integrada perquè es pugui descarregar. Usa sempre el mateix perfil de navegador i, si obres el fitxer local, la mateixa ruta. Prova que els canvis es conserven després d’apagar la pantalla de classe. Desa per separat una còpia JSON del calendari i una de les observacions. No hi ha sincronització automàtica ni cap connexió al Drive des de l’app. Per continuar en un altre ordinador, carrega els dos JSON a les seves seccions respectives.
 
 ## Edició 58 reptes (novembre de 2026)
 
-Una versió de revisió independent de l’anterior. El banc de 58 propostes es
+L’edició unificada permet obrir els dos formats de calendari JSON anteriors. El banc de 58 propostes es
 reparteix en vuit categories. Cada proposta té materials, durada i passos
 concrets, amb un desenllaç, variant o pista. A **Barreja i imprescindibles**
 pots obrir la **Vista prèvia** de qualsevol repte sense marcar cap data.
@@ -38,7 +38,7 @@ llum de lectura quan el minutatge correspon a l’àudio; poemes i frases dins
 de l’app; punt de llibre i floc de paper amb guia visual; joc FROZEN! amb
 senyals, pausa i opció muda; eco amb torn manual; metrònom continu. En dos
 temes s’ofereix lletra sola en mode tornada per evitar un tall incorrecte;
-les pistes completes segueixen al cançoner. No cal crear cap compte ni
+els àudios disponibles s’indiquen al cançoner segons la versió. No cal crear cap compte ni
 publicar ni gravar alumnat per fer cap activitat.
 
 ### Models consultats per al banc
@@ -47,3 +47,4 @@ publicar ni gravar alumnat per fer cap activitat.
 - [Punt de llibre · Red Ted Art](https://www.redtedart.com/origami-bookmark/).
 - [Cromatografia en paper · Birmingham Museums](https://www.birminghammuseums.org.uk/resources/paper-rainbows).
 - [Jocs d’hivern · Chaylor & Mads](https://chaylorandmads.com/winter-themed-games-for-classroom/) i [format Freeze Dance · vídeo del creador](https://www.youtube.com/watch?v=cn5CuIohvIY). Només com a inspiració docent, no cal YouTube per jugar.
+
