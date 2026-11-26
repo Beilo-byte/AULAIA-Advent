@@ -12,6 +12,12 @@ Calendari interactiu de Nadal per a primària, en català. Deu escenes amb imatg
 - Les pistes són cantades. No s'hi inclouen stems ni bases instrumentals. El joc fa servir fragments de l’inici de les gravacions.
 - Cançons i lletres de *Nadales Rock en català 2026 feat. Ginger*, Eloi Bruguet Lozano. No s’inclouen dades d’alumnes, comptes, serveis de seguiment ni APIs.
 
+## Proves per cursos
+
+El botó «✦ Proves per cursos» del calendari obre [l’apartat per cicles](https://beilo-byte.github.io/AULAIA-Advent/#cicles): 60 proves de 1r a 6è, una per àrea i curs. Les fitxes ja inclouen les targetes, textos, taulers, simulacions, fitxes digitals i pistes sonores necessàries. No cal imprimir, dur material ni obrir cap enllaç extern per fer-les. En els reptes de grup, n’hi ha prou amb parlar, fer gestos o moure’s al mateix lloc. Els models de ciència són simulacions explicades, no dades experimentals.
+
+Les proves de curs són un apartat separat del repertori de 70 reptes del calendari. Marcar-hi «Feta» desa aquesta indicació en el navegador, i no marca ni modifica cap dia. Les pistes sonores d’aquest apartat es generen al navegador i també funcionen sense connexió quan la versió web ja ha carregat la còpia local.
+
 ## Criba de reptes
      
 Obre **⚙ → Criba de reptes**, o ves directament a [la graella](https://beilo-byte.github.io/AULAIA-Advent/#criba). Les caselles **Conservo** i **Retiro** són excloents. Si desmarques el tic, el repte torna a pendents. Els retirats no surten al selector ni al sorteig, però els dies que ja els tenien no canvien. Pots triar només activitats conservades i exportar un JSON de la tria sense incloure el calendari ni observacions. Les activitats noves porten el distintiu **Nou**.
