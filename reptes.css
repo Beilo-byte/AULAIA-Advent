@@ -1,0 +1,40 @@
+.board.tree .number{max-width:var(--tree-max,100%)}
+#reveal .reveal-inner{padding-bottom:clamp(1.6rem,4vw,3.4rem)}
+.challenge-actions{margin-top:1.45rem;position:relative}.challenge-actions button,.challenge-card button{border:1px solid #967343;background:#f8ecd0;color:#251d13;border-radius:.55rem;min-height:44px;padding:.5rem .85rem}.challenge-actions button,.challenge-card .primary{background:#1c3d33;color:#fff5dc;border-color:#345649;font-weight:700}
+#challenge{background:#f5e8ca;color:#282016;color-scheme:light;border:1px solid #ad884e;border-radius:1rem;padding:0;width:min(710px,calc(100% - 1.3rem));max-height:91svh;overflow:auto;box-shadow:0 16px 90px #051410aa}#challenge::backdrop{background:#091812a8}#challenge :focus-visible{outline:3px solid #225c47;outline-offset:2px}
+.challenge-card{padding:clamp(1rem,4vw,2.15rem);background:radial-gradient(at top left,#fff6e0,#f0dfb9)}.challenge-card h2{font:700 clamp(1.65rem,5vw,2.55rem)/1.05 Georgia,serif;margin:.45rem 0 1.1rem}.challenge-card p,.challenge-card li{line-height:1.55}.challenge-card a{color:#235242}.challenge-top{display:flex;align-items:center;justify-content:space-between;color:#34574a;font-weight:700;letter-spacing:.11em;text-transform:uppercase;font-size:.76rem}.challenge-top button{font-size:1.3rem}.challenge-card select,.challenge-card input{background:#fff8e5;color:#2d2317;padding:.55rem;border:1px solid #a88852;border-radius:.45rem;min-height:44px;max-width:100%}.challenge-card audio{display:block;width:100%;margin:.8rem 0}.challenge-card .steps{padding-inline-start:1.35rem}.challenge-card .steps li{margin-block:.55rem}.challenge-card .reply{min-height:1.5em;font-weight:700;color:#255746}.challenge-card .instruction{color:#544635}.challenge-card .rbar{display:flex;align-items:center;flex-wrap:wrap;gap:.55rem;margin:.75rem 0}.challenge-card .playboard{display:block;border:1px dashed #a98658;padding:1rem;border-radius:.7rem;margin-top:1rem;background:#fff6e4}.challenge-card .big{font-size:clamp(1.4rem,5vw,2.2rem);font-weight:800;text-align:center;margin:.75rem 0}.challenge-card .lyrics{max-height:45vh;overflow:auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,225px),1fr));gap:1rem}.challenge-card .lyrics p{margin:0;border-top:1px solid #c6ad7b;padding-top:.6rem;line-height:1.38}
+.challenge-card .grid{display:grid;gap:.35rem;max-width:355px;margin:.9rem auto;grid-template-columns:repeat(var(--cols,5),minmax(0,1fr))}.challenge-card .grid button,.challenge-card .grid span{margin:0;padding:.15rem;display:grid;place-items:center;min-height:0;aspect-ratio:1;line-height:1;font-size:1.15rem}.challenge-card .grid .on,.challenge-card .pulse{background:#235b46;color:white}.challenge-card canvas{width:100%;height:auto;background:#fff9e9;border:1px solid #b39361;border-radius:.5rem;touch-action:none}.challenge-card .stagecue{display:grid;min-height:128px;place-items:center;text-align:center;border:2px solid #776744;border-radius:.74rem;font-size:clamp(1.5rem,8vw,3rem);font-weight:900}.challenge-card .cue0{background:#24553e;color:white}.challenge-card .cue1{background:#f2c65c;color:#2b1d12}.challenge-card .cue2{background:#8e3831;color:white}.dayrow>select{grid-column:1/-1;min-width:0;width:100%}#musicToggle[aria-pressed=true]{color:#fff4c5;background:#285847}#volumeValue{margin-inline-start:.35rem}#settings a{color:#ffe5ab}.challenge-actions button[hidden]{display:none}.tile{background-repeat:no-repeat;background-size:300% 300%;text-shadow:0 1px 4px #111;color:white!important}
+.board.tree .number{min-width:min(43px,var(--tree-max,100%));max-height:15svh}
+.challenge-card .steps+audio{margin-top:1rem}.challenge-card .rbar .on{background:#235b46;color:white}.challenge-card button:hover:not([disabled]){filter:brightness(.93)}.challenge-card .grid button:disabled{opacity:1;cursor:default}.reveal-inner h2{position:relative}
+@media(max-width:560px){.board.tree .number .numlabel{font-size:clamp(1rem,4vw,1.45rem)}}
+.challenge-card .reply:empty{margin:0;min-height:0}
+.challenge-card .challenge-top{position:sticky;top:-1px;background:#fff5dd;z-index:2;border-radius:.5rem;padding:.15rem .2rem .15rem .65rem}
+.challenge-card .challenge-top > span{font-size:.7rem}
+.catalog-gift{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:6px}
+.catalog-gift .activity{min-width:0}
+.catalog-preview{border:1px solid #749789;background:#fdf9ee;color:#244c40;border-radius:8px;padding:.45em .55em;font:inherit;font-size:.82rem;cursor:pointer}
+.gift-meta{font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:#315948}
+.gift-note{white-space:pre-line;border-inline-start:4px solid #b8773c;background:#f5eddf;border-radius:6px;padding:.55rem .85rem}
+.gift-poem{font-family:Georgia,serif;font-size:clamp(1.08rem,2.4vw,1.45rem);line-height:1.52}
+.gift-diagram{display:block;width:100%;max-height:none;border-radius:10px;margin-block:.75rem}
+.gift-big{min-height:48px!important;font-size:1.05rem!important}
+.gift-solution{margin-block:1rem}
+.gift-solution summary{cursor:pointer;font-weight:700}
+.chorusLyrics .chorusLine{margin:.14em 0;padding:.16em .4rem;border-radius:5px}
+.chorusLine.sing-active{background:#ffe092;color:#382513}
+#challenge progress{display:block;width:100%;accent-color:#315948;margin-block:.5rem}
+#challenge [hidden]{display:none!important}
+.lyrics.chorusLyrics{display:block;columns:1;column-count:1}
+.chorusLyrics .chorusLine{font-size:clamp(1.06rem,2vw,1.35rem);border-top:0;line-height:1.25}
+.board .number.school-gap{opacity:.21;cursor:default;filter:saturate(.34);pointer-events:none}
+.day-resources{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:.55rem;margin-block:.55rem;font-size:.92rem}
+.day-resources[hidden]{display:none}
+.day-resources h3,.day-resources p{width:100%;margin:.25rem}
+.day-resources img{max-width:100%;max-height:32vh;object-fit:contain;border-radius:10px}
+.day-resources audio{width:min(100%,360px)}
+.resource-editor{grid-column:1/-1;padding:.3rem 0}
+.resource-editor[open]{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:.5rem}
+.resource-editor[open] summary{grid-column:1/-1}
+.resource-editor label{display:block;font-size:.85rem}
+.resource-editor input{width:100%;min-width:0}
+.atmosphere[hidden]{display:none!important}

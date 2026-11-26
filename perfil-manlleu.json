@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "skin": "tree",
+  "free": false,
+  "sound": false,
+  "essential": [],
+  "days": [
+    {
+      "date": "2026-12-01",
+      "text": "Amaguem una estrella. Cada pista ens acosta una mica més.",
+      "fixed": false,
+      "opened": false,
+      "activity": "starhunt"
+    },
+    {
+      "date": "2026-12-02",
+      "text": "Cantem només la tornada: primer fluix i després amb veu natural.",
+      "fixed": false,
+      "opened": false,
+      "activity": "chorus"
+    },
+    {
+      "date": "2026-12-03",
+      "text": "Triem i recitem un poema breu que ja tenim a la pantalla.",
+      "fixed": false,
+      "opened": false,
+      "activity": "poem"
+    },
+    {
+      "date": "2026-12-04",
+      "text": "Diem una frase bonica com si fos una sorpresa, un secret o una benvinguda.",
+      "fixed": false,
+      "opened": false,
+      "activity": "voices"
+    },
+    {
+      "date": "2026-12-09",
+      "text": "Enviem un missatge a qui seurà aquí d’aquí a un any.",
+      "fixed": false,
+      "opened": false,
+      "activity": "future"
+    },
+    {
+      "date": "2026-12-10",
+      "text": "Pleguem un punt de llibre d’origami i l’estrenem amb un llibre.",
+      "fixed": false,
+      "opened": false,
+      "activity": "origami"
+    },
+    {
+      "date": "2026-12-11",
+      "text": "Fem una figura sorpresa: amb un sol tall n’apareixen dos.",
+      "fixed": false,
+      "opened": false,
+      "activity": "snow"
+    },
+    {
+      "date": "2026-12-14",
+      "text": "Inventem com saludar la gent que veurem aquestes festes, sense tocar-nos.",
+      "fixed": false,
+      "opened": false,
+      "activity": "gesturecards"
+    },
+    {
+      "date": "2026-12-15",
+      "text": "Fem sortir els colors amagats dins un retolador.",
+      "fixed": false,
+      "opened": false,
+      "activity": "ink"
+    },
+    {
+      "date": "2026-12-16",
+      "text": "Ens movem quan hi ha música. Quan calla, ens quedem garrativats.",
+      "fixed": false,
+      "opened": false,
+      "activity": "freeze"
+    },
+    {
+      "date": "2026-12-17",
+      "text": "Un vers curt, una pausa de veritat i la resposta de tota la classe.",
+      "fixed": false,
+      "opened": false,
+      "activity": "echolead"
+    },
+    {
+      "date": "2026-12-18",
+      "text": "Fem començar i acabar la classe sense haver de dir ni una paraula.",
+      "fixed": false,
+      "opened": false,
+      "activity": "conductor"
+    },
+    {
+      "date": "2026-12-21",
+      "text": "Acomiadem el calendari amb la tornada de «L’estel pacient» i un desig breu.",
+      "fixed": true,
+      "opened": false,
+      "activity": "break"
+    }
+  ]
+}
